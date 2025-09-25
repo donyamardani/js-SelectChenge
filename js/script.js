@@ -19,4 +19,5 @@ changeBtnEl.addEventListener('click',()=>{
  }else{
     textAreaEl.value=upperFirstWord(txt)
  }
+ 
 })
